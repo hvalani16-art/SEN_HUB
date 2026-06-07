@@ -391,11 +391,12 @@ a:focus,
   outline-offset: none;
 }
 /* Header Section */
+
 .intro {
   display: table;
   width: 100%;
   padding: 0;
-  background: url(img/.png) center center no-repeat;
+  background: url(sne-image.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
