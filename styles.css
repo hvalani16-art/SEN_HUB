@@ -398,7 +398,8 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(sne-image.png) center center no-repeat;
+  background: url(image\ 17.jpg) center center no-repeat;
+  url(image 17.jpg)
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
